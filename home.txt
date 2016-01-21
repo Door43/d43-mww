@@ -1,7 +1,6 @@
-====== Door43 (mww) ======
+====== Qhovrooj43 (mww) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
-
+Zoo siab txaistos koj los rau Qhovrooj43! Thov caw koj [[:mww:home?do=edit|kho]] nplooj ntawv no ua koj yam lus. Yog xav paub ntxiv tias yuav pib li cas kuj muaj nyob rau ntawm [[:en:get-started|no]].
 
 ===== Resources =====
 
